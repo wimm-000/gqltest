@@ -21,5 +21,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "apollo-react": "^0.7.1"
+  }
 }
